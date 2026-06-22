@@ -1,0 +1,124 @@
+<main>
+    <section* class="content-section fade-in">
+        <div class="container">
+            <h1 lang="en">Publicatioos</h1>
+            <h1 lang="zh">發表著作</h1>
+            <div id="publications">
+                <!-- Publications will be dynamically injected here -->
+            </div>
+        </div>
+    </section>
+</main>
+<style>
+    .publication {
+  border-bottom: 1px solid #ddd;
+  padding: 20px 0;
+  display: flex;
+  align-items: center; /* 使圖片在父容器中垂直置中 */
+}
+
+.publication img {
+  width: 200px;               /* 固定寬度 */
+  height: auto;              /* 固定高度，形成正方形 */
+  margin-right: 20px;
+  border-radius: 10px;        /* 可選：圓角效果 */
+}
+
+.publication-info {
+  flex: 1;
+}
+
+.publication h2 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.tags {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap; /* 允許內部元素換行 */
+  gap: 10px; /* 增加標籤之間的間距 */
+}
+
+.tag {
+  display: inline-block;
+  background: #d4af7a;
+  color: #000;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  font-size: 0.9rem;
+  font-weight: 1000;
+}
+
+a {
+  text-decoration: none;
+  color: #d4af7a;
+}
+a:hover {
+  text-decoration: underline;
+  color: #ff5252; /* 滑鼠懸停時變成白色 */
+}
+
+/* 手機模式優化 */
+@media (max-width: 768px) {
+
+
+p, h2{
+  font-size: 10px;
+  text-align: left;
+}
+/* 主要容器內邊距與寬度調整 */
+.container {
+    padding: 10px;
+    max-width: 100%;
+}
+
+/* 對齊方式改為垂直堆疊 */
+.publication {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 0;
+    gap: 15px; /* 增加間距 */
+}
+
+/* 圖片縮小 */
+.publication img {
+    width: 100%;
+    max-width: 250px;
+    margin-right: 0; /* 移除 margin-right，讓圖片居中 */
+    border-radius: 10px;
+}
+
+/* 文字資訊居中 */
+.publication-info {
+    text-align: center;
+    padding: 0 10px;
+}
+
+/* 標題與字體縮小 */
+.publication h2 {
+    font-size: 0.6rem;
+    text-align: left;
+}
+
+/* 標籤區塊垂直堆疊 */
+.tags {
+    justify-content: left;
+    gap: 1px;
+}
+
+/* 標籤樣式調整 */
+.tag {
+    font-size: 0.7rem;
+    padding: 2px 2px;
+    margin: 2px;
+}
+
+/* 連結大小調整 */
+a {
+    font-size: 1rem;
+}
+}
+
+</style>

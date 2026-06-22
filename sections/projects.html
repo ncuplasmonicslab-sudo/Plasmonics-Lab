@@ -1,0 +1,65 @@
+<main>
+    <section* class="content-section fade-in">
+        <h2 lang="zh">研究專案</h2>
+        <h2 lang="en">Research Projects</h2>
+        <div id="projects-container"></div>
+    </section>
+</main>
+<style>
+    .project-item {
+        border-bottom: 1px solid #ffffff;
+        padding: 10px 0;
+    }
+    .project-item a {
+        color: #d4af7a;
+        text-decoration: none;
+    }
+    a:hover {
+    text-decoration: underline;
+    color: #ff5252; /* 滑鼠懸停時變成白色 */
+    }
+
+    /* 手機模式優化 */
+@media (max-width: 768px) {
+
+/* 主要容器內邊距與寬度調整 */
+.content-section {
+    padding: 0px;
+    max-width: 100%;
+    text-align: left; /* 居中文字 */
+}
+
+/* 專案項目調整 */
+.project-item {
+    padding: 0px;
+    border-bottom: 1px solid #ffffff;
+    text-align: left; /* 專案資訊置中 */
+}
+
+/* 專案連結字體縮小 */
+.project-item a {
+    font-size: 14px;
+    word-wrap: break-word; /* 自動換行，避免超出螢幕 */
+}
+
+/* 超連結的互動效果 */
+a {
+    font-size: 0.5rem;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ff5252;
+}
+
+/* 標題縮小 */
+h2 {
+    font-size: 24px;
+    text-align: center;
+}
+p{
+    font-size: 12px
+}
+}
+
+    </style>

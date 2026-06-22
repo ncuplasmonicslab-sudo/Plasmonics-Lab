@@ -1,0 +1,350 @@
+/* 預設語言顯示設定 */
+[lang="en"] { display: block; }
+[lang="zh"] { display: none; }
+
+/* 當前語言的切換 */
+body.zh [lang="zh"] { display: block; }
+body.zh [lang="en"] { display: none; }
+body.en [lang="en"] { display: block; }
+body.en [lang="zh"] { display: none; }
+
+
+/* 全域設定：深色背景、字體家族 (中文用 Meiryo、英文用 Arial) */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000; /* 深色背景 */
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 0;
+}
+
+/* 深色背景、字體設定與先前相同 */
+[lang="zh"] { font-family: "Meiryo", sans-serif; }
+[lang="en"] { font-family: "Arial", sans-serif; }
+
+/* 頂部區域（header） */
+header {
+  width: 100%;
+  background-color: #000; /* 與背景同色，頂部圖片底色即透明 */
+  position: sticky;       /* 滾動時頂部固定 */
+  top: 0;
+  z-index: 999;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 頂部內的水平分布 */
+.top-bar {
+  position: relative; /* 讓內部元素可用絕對定位 */
+  display: inline-block;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px 0px;
+}
+
+
+.logo-container {
+  display: flex;
+  gap: 0px;
+  margin-top: 0px;
+  align-items: flex-end; /* 使圖片在父容器中垂直置中 */
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(50%, -50%);
+}
+
+.lab-logo {
+  width: 300px;
+  height: auto;
+  top: 0px;
+  left: 0px;
+  border-radius: 10px;
+}
+
+/* 領導者資訊區域 */
+.lab-title {
+  font-size: 20px;
+  width: 500px;
+  text-align: left; /* 文字水平向左對齊 */
+  align-items: flex-start; /* 保持原本的垂直對齊設定 */
+  color: #fff;
+  position: absolute;
+  top: 40px;
+  left: 250px;
+}
+/* -------------------------------------
+   語言切換 / 其他功能區 (略)
+------------------------------------- */
+.language-switcher {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* 將內容對齊到最左側 */
+  position: absolute;          /* 如果需要絕對定位在視窗最左側 */
+  left: 0;                     /* 靠齊最左邊 */
+  padding-left: 8px;          /* 可根據需要調整內邊距 */
+  padding-top: 8px;          /* 可根據需要調整內邊距 */
+}
+
+
+/* 國旗切換 icon，給予大小與簡易動態效果 */
+.flag-icon {
+  width: 53px;    /* icon 寬高可自行調整 */
+  height: 30px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+/* hover 時放大、旋轉或改變透明度等效果 */
+.flag-icon:hover {
+  transform: scale(1.1) rotate(5deg);
+}
+
+
+
+/* -------------------------------------
+   導覽列
+------------------------------------- */
+.main-nav {
+  background-color: #000000;
+  /* ★ 導覽列分隔線改為白色 ★ */
+  border-top: 2px solid white; 
+  border-bottom: 2px solid white;
+  display: flex;
+  justify-content: center;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0px;
+  justify-content: flex-start;
+}
+
+.main-nav li {
+  position: relative; /* 為了讓子選單絕對定位 */
+  margin: 0 20px;
+  padding: 0;
+}
+
+.main-nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 10px 0;
+  display: inline-block;
+}
+
+/* ★ 滑鼠 hover 時字顏色改為 #957B5F ★ */
+.main-nav a:hover {
+  color: #957B5F;
+}
+
+/* 隱藏子選單 */
+.submenu {
+  display: none !important; /* 強制隱藏 */
+  position: absolute; 
+  top: 100%; /* 從父選單下方開始顯示 */
+  left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: #2B2B2B; /* 子選單背景顏色 */
+  min-width: 50px;         /* 視需求調整 */
+}
+
+/* 子選單每個 <li> */
+.submenu li {
+  margin: 0;
+}
+
+/* 子選單的 a */
+.submenu a {
+  color: #808080;         /* 和背景同色 (預設看不見，hover 才換色) */
+  padding: 8px 12px;      /* 內距 */
+  display: block;         /* 讓超連結可填滿整個區塊 */
+  white-space: nowrap;    /* 避免換行 */
+}
+
+/* 子選單的 a hover -> 字顏色變 #957B5F */
+.submenu a:hover {
+  color: #957B5F; 
+  background-color: #333; /* 或者改別的顏色，以示反差 */
+}
+
+/* 滑過父選單 li 時，顯示子選單 */
+.has-submenu:hover .submenu {
+  display: block !important; /* 強制顯示 */
+}
+
+/* 主內容區 */
+main {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 預設隱藏所有 section */
+section {
+  display: none;
+}
+
+section.active {
+  display: block;
+}
+
+/* 基礎動畫：淡入 */
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1.2s forwards; /* forwards 使動畫結束後保持狀態 */
+  animation-timing-function: ease-in-out;
+}
+
+/* 定義淡入的 keyframe */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* 底部區域 */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  border-top: 1px solid #333;
+  background-color: #111;
+  color: #ccc;
+  font-size: 0.9rem;
+}
+
+
+/* 手機模式：導覽列使用漢堡選單 */
+@media (max-width: 768px) {
+  /* Header 讓標題與Logo改為堆疊排列 */
+  header {
+    padding: 0px;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+  }
+
+  .top-bar {
+    position: relative; /* 讓內部元素可用絕對定位 */
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0px;
+  }
+  /* 隱藏 logo 與標題 */
+  .logo-container, .lab-title{
+    display: none;
+  }
+  .language-switcher {
+    top: 13px;
+    left: 24px
+  }
+  /* 導覽列隱藏，改由漢堡選單控制 */
+  .main-nav {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      width: 50%;
+  }
+
+  /* 導覽列展開 */
+  .main-nav.active {
+    display: flex;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    background-color: #000;
+    width: 50%;
+    border-top: 1px solid #000000;
+    padding: 1px 0;
+    z-index: 1000;
+    width: 180px;
+    border-radius: 10px;
+}
+  /* 連結樣式微調 */
+  .main-nav a {
+    font-size: 1rem;
+    padding: 1px;
+    display: block; /* 讓連結能夠填滿整個區塊，方便點擊 */
+    border-radius: 8px;
+    background-color: #333;
+    width: 150px;
+  }
+
+  /* 導覽列每個連結獨立一行 */
+  .main-nav li {
+    margin: 5px 0;
+    width: 100%;
+    text-align: center;
+  }
+  /* 開啟導覽列 */
+  .main-nav.active {
+      display: flex;
+  }
+
+  /* 導覽列選項堆疊排列 */
+  .main-nav ul {
+      flex-direction: column;
+      gap: 10px;
+      padding: 0;
+      width: 100%;
+      text-align: center;
+  }
+
+  /* 漢堡選單按鈕樣式 */
+  .hamburger {
+      display: block;
+      cursor: pointer;
+      padding: 0px;
+      font-size: 36px;
+      color: #fff;
+      background: none;
+      border: none;
+  }
+  /* 導覽列子選單樣式：改為下拉顯示 */
+  .submenu {
+    position: static;
+    display: none;
+    width: 100%;
+    background: #000000;
+    padding: 10px 10px;
+  }
+
+  /* 子選單每個項目獨立顯示 */
+  .submenu li {
+    margin: 5px 0;
+  }
+  /* 子選單連結樣式微調 */
+  .submenu a {
+    padding: 3px;
+    display: block;
+    background: #555;
+    color: #fff;
+    border-radius: 8px;
+}
+}

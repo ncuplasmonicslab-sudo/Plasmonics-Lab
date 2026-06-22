@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="國立中央大學 電漿子光學實驗室" />
+    <meta property="og:description" content="實驗室成員"/>
+    <meta property="og:image" content="images/favicon/favicon.png" />
+    <meta property="og:image:alt" content="NOL" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
+    <title>Plasmonics Laboratory</title>
+    <link rel="icon" href="images/favicon/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <!-- 頂部區域 -->
+    <header>
+        <div class="top-bar">
+            <!-- 漢堡選單按鈕 -->
+            <button class="hamburger" onclick="toggleMenu()">☰</button>
+            <!-- Logo 與標題 -->
+            <div class="logo-container">
+                <img src="images/header/lab_logo2.png" alt="Plasmonics Laboratory" class="lab-logo">
+                <h1 class="lab-title">
+                    <span >Plamonics Laboratory</span><br>
+                    <span >國立中央大學 | 光電科學與工程學系 | 電漿子光學實驗室</span>
+                </h1>
+            </div>
+
+            <!-- 語言切換按鈕 -->
+            <div class="language-switcher">
+                <img id="lang-zh" src="images/header/flag_chinese.svg" alt="切換到中文版" class="flag-icon" title="切換到中文版">
+                <img id="lang-en" src="images/header/flag_english.svg" alt="Switch to English" class="flag-icon" title="Switch to English">
+            </div>
+        </div>
+
+        
+    <!-- 導覽列 -->
+    <!-- 更新後的導覽列，確保點擊連結時切換內容 -->
+    <nav class="main-nav">
+      <ul>
+          <!-- 單層選單 -->
+          <li><a href="#" data-section="home"><span lang="en">HOME</span><span lang="zh">首頁</span></a></li>
+          
+          <!-- 成員子選單 -->
+          <li class="has-submenu">
+              <a href="#" data-section="member"><span lang="en">MEMBER</span><span lang="zh">成員</span></a>
+              <ul class="submenu">
+                  <li><a href="#" data-section="advisor-professor"><span lang="en">Professor</span><span lang="zh">指導教授</span></a></li>
+                  <li><a href="#" data-section="current-members"><span lang="en">Members</span><span lang="zh">現任成員</span></a></li>
+                  <li><a href="#" data-section="former-members"><span lang="en">Graduate</span><span lang="zh">畢業生</span></a></li>
+              </ul>
+          </li>
+          
+          <!-- 研究子選單 -->
+          <li class="has-submenu">
+              <a href="#" data-section="research"><span lang="en">RESEARCH</span><span lang="zh">研究</span></a>
+              <ul class="submenu">
+                  <li><a href="#" data-section="meta-optics"><span lang="en">Meta-Optics</span><span lang="zh">超穎光學</span></a></li>
+                  <li><a href="#" data-section="machine-learning"><span lang="en">Machine Learning</span><span lang="zh">機器學習</span></a></li>
+                  <li><a href="#" data-section="cmos"><span lang="en">CMOS Image Sensor</span><span lang="zh">CMOS感光元件</span></a></li>
+              </ul>
+          </li>
+  
+          <!-- 新增的單層選單 -->
+          <li><a href="#" data-section="news"><span lang="en">NEWS</span><span lang="zh">最新消息</span></a></li>
+          <li><a href="#" data-section="code"><span lang="en">CODE</span><span lang="zh">程式碼</span></a></li>
+          <li><a href="#" data-section="publications"><span lang="en">PUBLICATIONS</span><span lang="zh">研究發表</span></a></li>
+          <li><a href="#" data-section="projects"><span lang="en">PROJECTS</span><span lang="zh">研究計畫</span></a></li>
+          <li><a href="#" data-section="join-us"><span lang="en">Contact Us</span><span lang="zh">聯絡我們</span></a></li>
+      </ul>
+    </nav>
+  </header>
+  <!-- JavaScript 用於控制漢堡選單 -->
+  <script>
+    const hamburger = document.querySelector('.hamburger');
+    const navMenu = document.querySelector('.main-nav');
+    // ✅ 漢堡按鈕點擊事件：開啟與關閉切換
+function toggleMenu() {
+    navMenu.classList.toggle('active');
+
+    // 切換漢堡按鈕圖示 (☰ ↔ ✖)
+    if (navMenu.classList.contains('active')) {
+        hamburger.textContent = '✖';
+    } else {
+        hamburger.textContent = '☰';
+    }
+}
+// ✅ 點擊導覽列選項時自動關閉並載入新頁面
+document.querySelectorAll('.main-nav a').forEach(link => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();  // 防止頁面跳轉
+        const sectionName = link.getAttribute('data-section'); // 讀取 data-section 屬性
+        loadSection(sectionName); // 載入對應頁面
+        navMenu.classList.remove('active'); // 自動關閉選單
+        hamburger.textContent = '☰'; // 恢復漢堡圖示
+    });
+});
+    </script>
+  <!-- 主內容區 -->
+    <main id="main-content">
+        <!-- 預設載入的首頁內容將由 script.js 動態載入 -->
+    </main>
+
+    <!-- 底部 -->
+    <footer>
+        <p lang="en">© 2025 Plasmonics Laboratory - All rights reserved.</p>
+        <p lang="zh">© 2025 電漿子光學實驗室 - 版權所有</p>
+    </footer>
+</body>
+</html>

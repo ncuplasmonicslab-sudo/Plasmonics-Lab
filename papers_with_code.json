@@ -1,0 +1,199 @@
+[
+    {
+        "img_src": "images/code/deeplens.gif",
+        "title": "Deeplens",
+        "authors": [
+          "Xinge Yang",
+          "Qiang Fu",
+          "Wolfgang Heidrich"
+        ],
+        "description": "DeepLens: a differentiable ray-tracer for computational lens design.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/singer-yang/DeepLens"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2302.01089.pdf"
+          }
+        ]
+      },
+    {
+        "img_src": "images/code/meent.png",
+        "title": "meent",
+        "authors": [
+          "Yongha Kim",
+          "Anthony W. Jung",
+          "Sanmun Kim",
+          "Kevin Octavian",
+          "Doyoung Heo",
+          "Chaejin Park",
+          "Jeongmin Shin",
+          "Sunghyun Nam",
+          "Chanhyung Park",
+          "Juho Park",
+          "Sangjun Han",
+          "Jinmyoung Lee",
+          "Seolho Kim",
+          "Min Seok Jang",
+          "Chan Y. Park"
+        ],
+        "description": "Electromagnetic simulation (RCWA) & optimization package in Python",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/kc-ml2/meent"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2406.12904.pdf"
+          }
+        ]
+      },
+      {
+        "img_src": "images/code/diffractsim.gif",
+        "title": "diffractsim",
+        "authors": [
+            "Rafael de la Fuente"
+        ],
+        "description": "A flexible diffraction simulator for exploring and visualizing physical optics.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/rafael-fuente/diffractsim"
+          },
+          {
+            "text": "Document",
+            "url": "https://rafael-fuente.github.io/simulating-diffraction-patterns-with-the-angular-spectrum-method-and-python.html"
+          }
+        ]
+      },
+      {
+        "img_src": "images/code/Python 3D FDTD Simulator.webp",
+        "title": "Python 3D FDTD Simulator",
+        "authors": [
+            "Floris Laporte"
+        ],
+        "description": "A 3D electromagnetic FDTD simulator written in Python. The FDTD simulator has an optional PyTorch backend, enabling FDTD simulations on a GPU.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/flaport/fdtd"
+          },
+          {
+            "text": "Document",
+            "url": "https://fdtd.readthedocs.io/"
+          }
+        ]
+      },
+    {
+        "img_src": "images/code/Metagrating-Topology-Optimization.gif",
+        "title": "Metagrating-Topology-Optimization",
+        "authors": [
+            "Jiaqi Jiang",
+            "Robert Lupoiu",
+            "Evan W. Wang,",
+            "David Sell",
+            "Jean Paul Hugonin",
+            "Philippe Lalanne",
+            "Jonathan A. Fan"
+        ],
+        "description": "The invrs_gym package is an open-source gym containing a diverse set of photonic design challenges, which are relevant for a wide range of applications such as AR/VR, optical networking, LIDAR, and others.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/jonfanlab/Metagrating-Topology-Optimization"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2002.03050"
+          }
+        ]
+      },
+      {
+      "img_src": "images/code/Dflat.png",
+      "title": "D-Flat",
+      "authors": [
+        "Dean S. Hazineh",
+        "Soon Wei Daniel Lim",
+        "Zhujun Shi",
+        "Federico Capasso",
+        "Todd Zickler",
+        "Qi Guo"
+      ],
+      "description": "DFlat is a forward and inverse design framework for flat optics. Although specially geared for the design of metasurface optics, it may be used for any end-to-end imaging and sensing task.",
+      "links": [
+        {
+          "text": "Github",
+          "url": "https://github.com/DeanHazineh/DFlat"
+        },
+        {
+          "text": "arXiv",
+          "url": "https://arxiv.org/pdf/2207.14780.pdf"
+        }
+      ]
+    },
+    {
+        "img_src": "images/code/WaveTorch.png",
+        "title": "WaveTorch",
+        "authors": [
+          "Tyler W. Hughes",
+          "Ian A. D. Williamson",
+          "Momchil Minkov",
+          "Shanhui Fan"
+        ],
+        "description": "WaveTorch provides recurrent neural network (RNN) modules for pytorch that compute time-domain solutions to the scalar wave equation. The code in this package is the basis for the results presented in our recent paper, where we demonstrate that recordings of spoken vowels can be classified as their waveforms propagate through a trained inhomogeneous material distribution.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/fancompute/wavetorch"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/1904.12831.pdf"
+          }
+        ]
+      },
+      {
+        "img_src": "images/code/DeepAdjoint.jpeg",
+        "title": "DeepAdjoint",
+        "authors": [
+          "Christopher Yeung",
+          "Benjamin Pham",
+          "Ryan Tsai",
+          "Katherine T. Fountaine",
+          "Aaswath P. Raman"
+        ],
+        "description": "WaveTorch provides recurrent neural network (RNN) modules for pytorch that compute time-domain solutions to the scalar wave equation. The code in this package is the basis for the results presented in our recent paper, where we demonstrate that recordings of spoken vowels can be classified as their waveforms propagate through a trained inhomogeneous material distribution.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/Raman-Lab-UCLA/DeepAdjoint_ML-Optimization_Integration"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/pdf/2209.15434.pdf"
+          }
+        ]
+      },
+      {
+        "img_src": "images/code/invrs-gym.gif",
+        "title": "invrs-gym",
+        "authors": [
+          "Martin F. Schubert"
+        ],
+        "description": "The invrs_gym package is an open-source gym containing a diverse set of photonic design challenges, which are relevant for a wide range of applications such as AR/VR, optical networking, LIDAR, and others.",
+        "links": [
+          {
+            "text": "Github",
+            "url": "https://github.com/invrs-io/gym"
+          },
+          {
+            "text": "arXiv",
+            "url": "https://arxiv.org/abs/2410.24132.pdf"
+          }
+        ]
+      }
+  ]
+  

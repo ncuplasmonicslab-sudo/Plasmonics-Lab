@@ -1,0 +1,131 @@
+<main>
+    <section* class="content-section fade-in">
+        <div class="container">
+            <h1>Useful Code</h1>
+            <div id="papers-container">
+                <!-- Publications will be dynamically injected here -->
+            </div>
+        </div>
+    </section>
+</main>
+
+<style>
+
+.pubwrap {
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    margin-right: 3vw;
+    margin-left: 3vw;
+    border-bottom: 1px solid #ffffff;
+    line-height: 1.5em;
+    text-align: justify;
+    
+}
+.row {
+    display: flex;
+    align-items: flex-start;
+    display: flex;
+    align-items: center; /* 使圖片在父容器中垂直置中 */
+}
+.pubt {
+    font-size: 24px;
+    font-weight: 1000;
+    letter-spacing: 1px; /* 設定文字間距為 2px */
+    color: #d4af7a;
+}
+.pubimg {
+    display: flex;
+    align-items: center; /* 使圖片在父容器中垂直置中 */
+}
+
+.pubimg img {
+    width: 500px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.pubg {
+    font-size: 14px;
+    font-style: italic;  /* 新增斜體效果 */
+    color: #f09494;
+}
+.pubd {
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 1px; /* 設定文字間距為 2px */
+}
+
+.publ {
+    padding-left: 0px; /* 移除預設的內邊距 */
+    list-style: none; /* 移除預設的列表樣式 */
+}
+.publ li {
+    border: 1px solid #d4af7a;
+    background-color: #d4af7a;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin: 5px 5px;
+    display: inline-block;
+}
+.publ li a {
+    text-decoration: none;
+    font-weight: 1000;
+    color: #000000;
+}
+.publ li a:hover {
+    color: #ffffff; /* 滑鼠懸停時變成白色 */
+}
+/* 手機模式優化 */
+@media (max-width: 768px) {
+h1 {
+   font-size: 24px; 
+}
+/* 調整容器的邊距，適應小螢幕 */
+.container {
+    padding: 0px;
+}
+
+/* 使文章區塊更適合小螢幕 */
+.pubwrap {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+/* 將行內容垂直排列，以便更適合小螢幕 */
+.row {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 30px;
+}
+
+/* 將圖片縮小，適應手機螢幕 */
+.pubimg img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* 標題與文字大小縮小 */
+.pubt {
+    font-size: 20px;
+}
+
+.pubg {
+    font-size: 12px;
+}
+
+.pubd {
+    font-size: 14px;
+}
+
+/* 按鈕縮小且間距調整 */
+.publ li {
+    padding: 5px;
+    margin: 5px;
+    font-size: 14px;
+}
+}
+</style>

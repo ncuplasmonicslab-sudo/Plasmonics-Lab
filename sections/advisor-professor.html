@@ -1,0 +1,123 @@
+<main>
+    <section* class="content-section fade-in">
+        <h1 lang="en">PROFESSOR</h1>
+        <h1 lang="zh">實驗室主持人</h1>
+        <!-- JavaScript 將自動填入這個區域 -->
+        <div id="advisor-container"></div>
+    </section>
+</main>
+
+<style>
+    /* 領導者資訊容器 */
+    .leader-container {
+      display: flex;
+      gap: 100px;
+      margin-top: 50px;
+      align-items: center; /* 使圖片在父容器中垂直置中 */
+    }
+    
+    /* 領導者照片 */
+    .leader-photo {
+      width: 500px;
+      height: auto;
+      border-radius: 100px;
+      border: 2px solid #fff;
+    }
+    
+    /* 領導者資訊區域 */
+    .leader-info {
+      max-width: 650px;
+      color: #fff;
+    }
+    
+    .leader-info h2 {
+      font-size: 2rem;
+      color: #d4af7a;
+    }
+    
+    .leader-name {
+      font-size: 1.5rem;
+      color: #d4af7a;
+      letter-spacing:normal;
+    }
+    
+    .leader-chinese-name {
+      font-size: 2.0rem;
+      color: #bbb;
+    }
+    
+    .leader-info ul {
+      list-style-type: disc;
+      padding-left: 40px;
+    }
+    
+    .leader-info a {
+      color: #d4af7a;
+      text-decoration: none;
+    }
+    
+    .leader-info a:hover {
+      text-decoration: underline;
+    }
+
+    /* 手機模式：768px 以下的優化 */
+@media (max-width: 768px) {
+  p{
+    font-size: 14px;
+    text-align: left;
+  }
+  h1{
+  font-size: 24px;
+}
+
+  h3{
+  font-size: 18px;
+  text-align: left;
+}
+/* 領導者資訊容器改為垂直堆疊 */
+.leader-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px; /* 縮小間距 */
+    margin-top: 20px;
+}
+
+/* 照片縮小 */
+.leader-photo {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 50px;
+}
+
+/* 文字資訊置中 */
+.leader-info {
+    text-align: center;
+    padding: 0 10px;
+    max-width: 90%;
+}
+
+/* 標題與字體縮小 */
+.leader-info h2 {
+    font-size: 1.2rem;
+}
+
+.leader-name {
+    font-size: 1.2rem;
+}
+
+.leader-chinese-name {
+    font-size: 1.2rem;
+}
+
+/* 列表樣式調整 */
+.leader-info ul {
+    text-align: left;
+}
+
+/* 縮小字體，確保易讀性 */
+.leader-info li {
+    font-size: 16px;
+    text-align: left;
+}
+}
+</style>

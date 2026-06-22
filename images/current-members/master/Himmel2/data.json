@@ -1,0 +1,23 @@
+{
+    "name": "Himmel",
+
+    "chinese_name": "欣梅爾",
+
+    "education": [
+        "Apprentice of Flamme",
+        "Great wizard"
+    ],
+    "education_TW": [
+        "火焰學徒",
+        "偉大的魔法師"
+    ],
+    "research": [
+        "magic that can produce flower bed",
+        "magic that can turn sweet grapes into sour ones"
+    ],
+    "research_TW": [
+        "可以產生花壇的魔法",
+        " 可以把甜葡萄變成酸葡萄的魔法"
+    ],
+    "email": "magicgrandma@himmel.com"
+}
