@@ -226,22 +226,39 @@ async function loadpublications() {
             return dateB - dateA;
         });
 
-        publications.forEach(pub => {
-            const keywordsHtml = pub.keywords.map(keyword => `<span class="tag">${keyword}</span>`).join(' ');
-            const authorsHtml = pub.authors.join(', ');
+// ★ 新增 1：在迴圈外面準備一個空盒子，用來記住現在排到哪一年
+    let currentYear = ''; 
+
+    publications.forEach(pub => {
+        // ★ 新增 2：因為你資料庫的年份可能寫「4月 2025」，我們用這個魔法只把「2025」四個數字抓出來
+        const yearMatch = pub.year.match(/\d{4}/);
+        const cleanYear = yearMatch ? yearMatch[0] : '';
+
+        // ★ 新增 3：如果這篇的年份跟盒子裡的年份不一樣 (代表跨年了)，就印出標題和底線！
+        if (cleanYear !== currentYear && cleanYear !== '') {
+            currentYear = cleanYear; // 把新的一年放進盒子裡
             container.innerHTML += `
-                <div class="publication">
-                    <img src="${pub.img_scr}" alt="Publication Image">
-                    <div class="publication-info">
-                        <h2><a href="${pub.url}" target="_blank">${pub.title}</a></h2>
-                        <p><strong>Authors:</strong> ${authorsHtml}</p>
-                        <p><strong>Journal:</strong> ${pub.journal}</p>
-                        <p><strong>Year:</strong> ${pub.year}</p>
-                        <div class="tags">${keywordsHtml}</div>
-                    </div>
-                </div>
+                <h3 style="font-weight: bold; font-size: 26px; color: #ffffff; margin-top: 50px; margin-bottom: 10px;">${currentYear}</h3>
+                <hr style="border: 0; border-top: 3px solid #ffffff; margin-bottom: 24px;">
             `;
-        });
+        }
+
+        // --- 以下是你原本負責印出論文的程式碼 (完全沒變) ---
+        const keywordsHtml = pub.keywords.map(keyword => `<span class="tag">${keyword}</span>`).join('');
+        const authorsHtml = pub.authors.join(', ');
+        container.innerHTML += `
+            <div class="publication">
+                <img src="${pub.img_scr}" alt="Publication Image">
+                <div class="publication-info">
+                    <h2><a href="${pub.url}" target="_blank">${pub.title}</a></h2>
+                    <p><strong>Authors:</strong> ${authorsHtml}</p>
+                    <p><strong>Journal:</strong> ${pub.journal}</p>
+                    <p><strong>Year:</strong> ${pub.year}</p>
+                    <div class="tags">${keywordsHtml}</div>
+                </div>
+            </div>
+        `;
+    });
     } catch (error) {
         console.error('Error loading publications:', error);
         document.getElementById('publications').innerHTML = '<p style="color: red;">Failed to load publications.</p>';
