@@ -1,0 +1,3025 @@
+[
+  {
+    "original_index": 3,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Image sensor and method for reducing image signal processor",
+      "authors": [
+        "Wang, C. Y.",
+        "Wang, C. M.",
+        "Wang, P. H.",
+        "Wu, H. L."
+      ],
+      "journal": "US Patent 12604550",
+      "url": "https://patents.google.com/patent/US12604550B2/en",
+      "year": "4月 2026",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 5,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Review of nanoimprinted photonics",
+      "authors": [
+        "Wang, P. H.",
+        "Wang, C. M."
+      ],
+      "journal": "Nanotechnology",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-6528/ae150a/meta",
+      "year": "11月 2025",
+      "img_scr": [],
+      "keywords": [
+        "Nanophotonics",
+        "Waveguides",
+        "Resonators",
+        "Metamaterial",
+        "Nanoimprint Lithography (Nil)"
+      ]
+    }
+  },
+  {
+    "original_index": 6,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Image sensor",
+      "authors": [
+        "Wu, Y. F.",
+        "Wang, C. Y.",
+        "Wang, P. H.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent Application 18650728",
+      "url": "https://patents.google.com/patent/US20250338656A1/en",
+      "year": "10月 2025",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 7,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical device",
+      "authors": [
+        "Chang, K. H.",
+        "Kuo, A. L.",
+        "Wang, C. Y.",
+        "Kuo, S. H.",
+        "Wang, P. H.",
+        "Tu, Z. R.",
+        "Chang, Y. C.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent Application 19235229",
+      "url": "https://patents.google.com/patent/US20250311459A1/en",
+      "year": "10月 2025",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 9,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Meta optical device, optical system, and method for aberration correction",
+      "authors": [
+        "Chang, K. H.",
+        "Kuo, S. H.",
+        "Kuo, A. L.",
+        "Wang, C. Y.",
+        "Chang, Y. C.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent 12372686",
+      "url": "https://patents.google.com/patent/US12372686B2/en",
+      "year": "7月 2025",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 10,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical device",
+      "authors": [
+        "Chang, K. H.",
+        "Kuo, A. L.",
+        "Wang, C. Y.",
+        "Kuo, S. H.",
+        "Wang, P. H.",
+        "Tu, Z. R.",
+        "Chang, Y. C.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent 12356745",
+      "url": "https://patents.google.com/patent/US12356745B2/en",
+      "year": "7月 2025",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 11,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Light-adjusting device and solid-state image sensor using the same",
+      "authors": [
+        "Chang, K. H.",
+        "Wang, C. Y.",
+        "Kuo, S. H.",
+        "Tu, Z. R.",
+        "Wang, P. H.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent 12309510",
+      "url": "https://patents.google.com/patent/US12309510B2/en",
+      "year": "5月 2025",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 23,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Meta-Optics Element And Manufacture Method Thereof",
+      "authors": [
+        "Wang, C. M.",
+        "Hsu, W. L.",
+        "Liao, Y. H."
+      ],
+      "journal": "US Patent Application 17887038",
+      "url": "https://patents.google.com/patent/US20230408729A1/en",
+      "year": "12月 2023",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 39,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Temporal and Spatial Modification of Thermal Radiation",
+      "authors": [
+        "Wang, C. M.",
+        "Huang, T. T.",
+        "Tsai, W. Y.",
+        "Tsai, D. P."
+      ],
+      "journal": "2019 IEEE CPMT Symposium Japan (ICSJ)",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8998727/",
+      "year": "11月 2019",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 41,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Second harmonic light manipulation with vertical split ring resonators",
+      "authors": [
+        "Tsai, W. Y.",
+        "Chung, T. L.",
+        "Hsiao, H. H.",
+        "Chen, J. W.",
+        "Lin, R. J.",
+        "Wu, P. C.",
+        "Sun, G.",
+        "Wang, C. M.",
+        "Misawa, H.",
+        "Tsai, D. P."
+      ],
+      "journal": "Advanced Materials",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201806479",
+      "year": "2月 2019",
+      "img_scr": [],
+      "keywords": [
+        "second harmonic generation",
+        "Nonlinear Plasmonics",
+        "Vertical Split Ring Resonators (Vsrr)"
+      ]
+    }
+  },
+  {
+    "original_index": 42,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Global solution of achromatic total internal reflection prism in projection system",
+      "authors": [
+        "Pan, J. W.",
+        "Li, J. S.",
+        "Wang, C. M."
+      ],
+      "journal": "Optics Communications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0030401818306497",
+      "year": "12月 2018",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 43,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Visible metasurfaces for on-chip polarimetry",
+      "authors": [
+        "Wu, P. C.",
+        "Chen, J. W.",
+        "Yin, C. W.",
+        "Lai, Y. C.",
+        "Chung, T. L.",
+        "Liao, C. Y.",
+        "Chen, B. H.",
+        "Lee, K. W.",
+        "Chuang, C. J.",
+        "Wang, C. M.",
+        "Tsai, D. P."
+      ],
+      "journal": "ACS Photonics",
+      "url": "https://pubs.acs.org/apchd5/article/5/7/2568/1265405",
+      "year": "7月 2018",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 44,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Passive temperature control based on a phase change metasurface",
+      "authors": [
+        "Wu, S. R.",
+        "Lai, K. L.",
+        "Wang, C. M."
+      ],
+      "journal": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-018-26150-9",
+      "year": "5月 2018",
+      "img_scr": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-26150-9/MediaObjects/41598_2018_26150_Fig1_HTML.jpg"
+      ],
+      "keywords": [
+        "Metamaterials",
+        "Nanophotonics and plasmonics"
+      ]
+    }
+  },
+  {
+    "original_index": 47,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Compact Spectropolarimeter based on Metasurface in Vislble range",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:8AbLer7MMksC",
+      "year": "7月 2017",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 48,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic meta-holograms (Conference Presentation)",
+      "authors": [
+        "Wu, H. J.",
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Tsai, W. Y.",
+        "Wu, P. C.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Tsai, D. P."
+      ],
+      "journal": "High Contrast Metastructures VI",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10113/1011311/Plasmonic-meta-holograms-Conference-Presentation/10.1117/12.2251617.short",
+      "year": "4月 2017",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 49,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic multicolor meta-hologram",
+      "authors": [
+        "Tsai, D. P.",
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Wang, C. M."
+      ],
+      "journal": "US Patent Application 14969447",
+      "url": "https://patents.google.com/patent/US20170068214A1/en",
+      "year": "3月 2017",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 50,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Material-assisted metamaterial: a new dimension to create functional metamaterial",
+      "authors": [
+        "Tsai, W. Y.",
+        "Wang, C. M.",
+        "Chen, C. F.",
+        "Wu, P. C.",
+        "Chen, Y. H.",
+        "Chen, T. Y.",
+        "Wu, P. R.",
+        "Chen, J. W.",
+        "Tsai, D. P."
+      ],
+      "journal": "Scientific Reports",
+      "url": "https://www.nature.com/articles/srep42076",
+      "year": "2月 2017",
+      "img_scr": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep42076/MediaObjects/41598_2017_Article_BFsrep42076_Fig1_HTML.jpg"
+      ],
+      "keywords": [
+        "Metamaterials",
+        "Nanophotonics and plasmonics"
+      ]
+    }
+  },
+  {
+    "original_index": 51,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Quasi-coherent thermal radiation with multiple resonant plasmonic cavities",
+      "authors": [
+        "Liao, C. Y.",
+        "Wang, C. M.",
+        "Cheng, B. H.",
+        "Chen, Y. H.",
+        "Tsai, W. Y.",
+        "Feng, D. Y.",
+        "Yeh, T. T.",
+        "Yen, T. J.",
+        "Tsai, D. P."
+      ],
+      "journal": "Applied Physics Letters",
+      "url": "https://pubs.aip.org/aip/apl/article/109/26/261101/31858",
+      "year": "12月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 52,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Aluminum Plasmonic Full-Color Meta-Hologram",
+      "authors": [
+        "Chen, M. K.",
+        "Tsai, W. Y.",
+        "Chen, Y. H.",
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Wu, P. C.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Tsai, D. P."
+      ],
+      "journal": "JSAP-OSA Joint Symposia",
+      "url": "https://opg.optica.org/abstract.cfm?uri=JSAP-2016-13a_C302_3",
+      "year": "9月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 53,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optically reconfigurable all-dielectric metamaterial and photonic devices",
+      "authors": [
+        "Wang, Q.",
+        "Rogers, E.",
+        "Gholipour, B.",
+        "Wang, C. M.",
+        "Yuan, G.",
+        "Teng, J.",
+        "Zheludev, N."
+      ],
+      "journal": "",
+      "url": "https://eprints.soton.ac.uk/397876/",
+      "year": "8月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 54,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Lambertian thermal emitter based on plasmonic enhanced absorption",
+      "authors": [
+        "Wang, C. M.",
+        "Tsai, D. P."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-24-16-18382",
+      "year": "8月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 55,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Anomalous reflection from metasurfaces with gradient phase distribution below 2π",
+      "authors": [
+        "Ho, Y. Z.",
+        "Cheng, B. H.",
+        "Hsu, W. L.",
+        "Wang, C. M.",
+        "Tsai, D. P."
+      ],
+      "journal": "Applied Physics Express",
+      "url": "https://iopscience.iop.org/article/10.7567/APEX.9.072502/meta",
+      "year": "7月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 56,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Visible light active photocatalyst from recycled disposable heating pads",
+      "authors": [
+        "Lee, M. C.",
+        "Wang, C. Y.",
+        "Chen, C. C.",
+        "Wang, C. M.",
+        "Hsiao, T. C.",
+        "Tsai, D. P."
+      ],
+      "journal": "Journal of Nanophotonics",
+      "url": "https://www.spiedigitallibrary.org/journals/Journal-of-Nanophotonics/volume-10/issue-1/016016/Visible-light-active-photocatalyst-from-recycled-disposable-heating-pads/10.1117/1.JNP.10.016016.short",
+      "year": "3月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 57,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Antireflection with graphene oxide",
+      "authors": [
+        "Chen, L. C.",
+        "Yu, C. T.",
+        "Peng, Y. C.",
+        "Hung, J. J.",
+        "Chang, H. M.",
+        "Tzeng, S. D.",
+        "Wang, C. M.",
+        "Lin, C. C.",
+        "Lin, C. H."
+      ],
+      "journal": "Optical Materials Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ome-6-1-8",
+      "year": "1月 2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 58,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optically reconfigurable metasurfaces and photonic devices based on phase change materials",
+      "authors": [
+        "Wang, Q.",
+        "Rogers, E. T. F.",
+        "Gholipour, B.",
+        "Wang, C. M.",
+        "Yuan, G.",
+        "Teng, J.",
+        "Zheludev, N. I."
+      ],
+      "journal": "Nature Photonics",
+      "url": "https://www.nature.com/articles/nphoton.2015.247",
+      "year": "1月 2016",
+      "img_scr": [
+        "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnphoton.2015.247/MediaObjects/41566_2016_Article_BFnphoton2015247_Fig1_HTML.jpg"
+      ],
+      "keywords": [
+        "Metamaterials",
+        "Optoelectronic devices and components"
+      ]
+    }
+  },
+  {
+    "original_index": 59,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Teaching American Studies in Taiwan: Military Bases and the Paradox of Peace and Security in East Asia",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "American Quarterly",
+      "url": "https://muse.jhu.edu/pub/1/article/622092/summary",
+      "year": "2016",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 60,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Graphene oxide as the passivation layer for CuxO photocatalyst on a plasmonic Au film and the corresponding photoluminescence study",
+      "authors": [
+        "Chang, Y. H.",
+        "Wang, C. M.",
+        "Hsu, Y. K.",
+        "Pai, Y. H.",
+        "Lin, J. Y.",
+        "Lin, C. H."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-23-19-a1245",
+      "year": "9月 2015",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 61,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Reflective plasmonic metasurface and metahologram",
+      "authors": [
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Yang, K. Y.",
+        "Tsai, W. Y.",
+        "Wu, P. C.",
+        "Chiang, I. D.",
+        "Liao, C. Y.",
+        "Hsu, W. L.",
+        "Lin, H. T.",
+        "Sun, S.",
+        "Zhou, L.",
+        "Liu, A. Q.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Tsai, D. P."
+      ],
+      "journal": "2015 International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD)",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7292866/",
+      "year": "9月 2015",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 62,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optically Reconfigurable Photonic Devices",
+      "authors": [
+        "Wang, Q.",
+        "Rogers, E. T. F.",
+        "Gholipour, B.",
+        "Wang, C. M.",
+        "Yuan, G.",
+        "Teng, J.",
+        "Zheludev, N. I."
+      ],
+      "journal": "arXiv preprint arXiv:1508.03818",
+      "url": "https://arxiv.org/abs/1508.03818",
+      "year": "8月 2015",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 63,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Aluminum plasmonic multicolor meta-hologram",
+      "authors": [
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Tsai, W. Y.",
+        "Wu, P. C.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Tsai, D. P."
+      ],
+      "journal": "Nano Letters",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5b00184",
+      "year": "5月 2015",
+      "img_scr": [],
+      "keywords": [
+        "Polarization",
+        "Switching",
+        "Holography",
+        "Metasurfaces",
+        "Multicolor",
+        "Nanoantennas",
+        "Aluminum Plasmonics",
+        "Meta-hologram"
+      ]
+    }
+  },
+  {
+    "original_index": 64,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic metasurface for color hologram",
+      "authors": [
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Tsai, W. Y.",
+        "Wu, P. C.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Tsai, D. P."
+      ],
+      "journal": "CLEO: 2015",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7183237/",
+      "year": "5月 2015",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 65,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Polarization controlled colorful images reconstructed by reflective meta-hologram",
+      "authors": [
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Yang, K. Y.",
+        "Wang, C. M.",
+        "Wu, P. C.",
+        "Sun, G.",
+        "Sun, S.",
+        "Zhou, L.",
+        "Liu, A. Q.",
+        "Tsai, D. P."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9160/91602D/Polarization-controlled-colorful-images-reconstructed-by-reflective-meta-hologram/10.1117/12.2063297.short",
+      "year": "9月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 66,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Reflective metasurface and plasmonic hologram application",
+      "authors": [
+        "Huang, Y. W.",
+        "Chen, W. T.",
+        "Yang, K. Y.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Sun, S.",
+        "Zhou, L.",
+        "Liu, A. Q.",
+        "Tsai, D. P."
+      ],
+      "journal": "JSAP Annual Meetings Extended Abstracts The 75th JSAP Autumn Meeting 2014",
+      "url": "https://www.jstage.jst.go.jp/article/jsapmeeting/2014.2/0/2014.2_3700/_article/-char/ja/",
+      "year": "9月 2014",
+      "img_scr": [],
+      "keywords": [
+        "Plasmonics",
+        "metasurface",
+        "meta-hologram"
+      ]
+    }
+  },
+  {
+    "original_index": 67,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Dielectric function dependence on temperature for Au and Ag",
+      "authors": [
+        "Chen, Y. J.",
+        "Lee, M. C.",
+        "Wang, C. M."
+      ],
+      "journal": "Japanese Journal of Applied Physics",
+      "url": "https://iopscience.iop.org/article/10.7567/JJAP.53.08MG02/meta",
+      "year": "8月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 68,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Photocorrosion of plasmonic enhanced CuxO photocatalyst",
+      "authors": [
+        "Wang, C. M.",
+        "Wang, C. Y."
+      ],
+      "journal": "Journal of Nanophotonics",
+      "url": "https://www.spiedigitallibrary.org/journals/Journal-of-Nanophotonics/volume-8/issue-1/084095/----Custom-HTML----Photocorrosion/10.1117/1.JNP.8.084095.short",
+      "year": "7月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 69,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical properties of InGaN/GaN multiquantum wells light-emitting diode with one-dimensional Au nanoparticle grating",
+      "authors": [
+        "Tu, S. H.",
+        "Ruan, D. G.",
+        "Tzeng, S. D.",
+        "Ni, I. C.",
+        "Wang, C. M."
+      ],
+      "journal": "Journal of Nanophotonics",
+      "url": "https://www.spiedigitallibrary.org/journals/journal-of-nanophotonics/volume-8/issue-1/084097/Optical-properties-of-InGaN-GaN-multiquantum-wells-light-emitting-diode/10.1117/1.JNP.8.084097.short",
+      "year": "6月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 70,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "A polarization control system for intensity-resolved guided mode resonance sensors",
+      "authors": [
+        "Lin, S. F.",
+        "Chang, F. C.",
+        "Chen, Z. H.",
+        "Wang, C. M.",
+        "Yang, T. H.",
+        "Chen, W. Y.",
+        "Chang, J. Y."
+      ],
+      "journal": "Sensors",
+      "url": "https://www.mdpi.com/1424-8220/14/3/5198",
+      "year": "3月 2014",
+      "img_scr": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1d65/4003988/1b1c13e88e77/sensors-14-05198f1.jpg"
+      ],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 71,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Omnidirectional thermal emitter based on plasmonic nanoantenna arrays",
+      "authors": [
+        "Wang, C. M.",
+        "Feng, D. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-22-2-1313",
+      "year": "1月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 72,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High-efficiency broadband meta-hologram with polarization-controlled dual images",
+      "authors": [
+        "Chen, W. T.",
+        "Yang, K. Y.",
+        "Wang, C. M.",
+        "Huang, Y. W.",
+        "Sun, G.",
+        "Chiang, I. D.",
+        "Liao, C. Y.",
+        "Hsu, W. L.",
+        "Lin, H. T.",
+        "Sun, S.",
+        "Zhou, L.",
+        "Liu, A. Q.",
+        "Tsai, D. P."
+      ],
+      "journal": "Nano Letters",
+      "url": "https://pubs.acs.org/doi/10.1021/nl403811d",
+      "year": "1月 2014",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 73,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Efficiency improvement of HIT solar cells on p-type Si wafers",
+      "authors": [
+        "Wei, C. Y.",
+        "Lin, C. H.",
+        "Hsiao, H. T.",
+        "Yang, P. C.",
+        "Wang, C. M.",
+        "Pan, Y. C."
+      ],
+      "journal": "Materials",
+      "url": "https://www.mdpi.com/1996-1944/6/11/5440",
+      "year": "11月 2013",
+      "img_scr": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ed70/5452790/02d6c2a57c86/materials-06-05440-g001.jpg"
+      ],
+      "keywords": [
+        "Solar Cells",
+        "P-type Si Substrate"
+      ]
+    }
+  },
+  {
+    "original_index": 74,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Dielectric function dependence on temperature for noble metal",
+      "authors": [
+        "Chen, Y. J.",
+        "Lee, M. C.",
+        "Wang, C. M."
+      ],
+      "journal": "Technical Digest of the Eighteenth Microoptics Conference",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6715153/",
+      "year": "10月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 75,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Highly efficient anomalous reflection by an optical metasurface",
+      "authors": [
+        "Sun, S.",
+        "Yang, K. Y.",
+        "Chen, W. T.",
+        "Liao, C. Y.",
+        "Guo, G. Y.",
+        "Tsai, D. P.",
+        "Wang, C. M.",
+        "Juan, T. K.",
+        "Kung, W. T.",
+        "He, Q.",
+        "Xiao, S.",
+        "Zhou, L."
+      ],
+      "journal": "SPIE Newsroom",
+      "url": "https://www.academia.edu/download/79333852/aea3c81d48d4cbc5075ad9ca07ffd3b3a092.pdf",
+      "year": "9月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 76,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic CuxO photocatalyst for Solar Water Splitting with Visible Light",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "JSAP-OSA Joint Symposia 2013 Abstracts",
+      "url": "https://opg.optica.org/abstract.cfm?uri=JSAP-2013-17p_D4_2",
+      "year": "9月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 77,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Free-Space Plasmonic Filter with Dual-Resonance Wavelength Using Asymmetric T-Shaped Metallic Array",
+      "authors": [
+        "Wang, C. M.",
+        "Yu, C. J."
+      ],
+      "journal": "Plasmonics",
+      "url": "https://link.springer.com/article/10.1007/s11468-012-9402-0",
+      "year": "6月 2013",
+      "img_scr": [
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11468-012-9402-0/MediaObjects/11468_2012_9402_Fig1_HTML.gif"
+      ],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 78,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic infrared bandstop reflective filter",
+      "authors": [
+        "Wang, C. M.",
+        "Tsai, D. P."
+      ],
+      "journal": "IEEE Journal of Selected Topics in Quantum Electronics",
+      "url": "https://ieeexplore.ieee.org/abstract/document/6508917/",
+      "year": "5月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 79,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Surface Plasmon assisted Cu_xO photocatalyst for pure water splitting",
+      "authors": [
+        "Kung, W. T.",
+        "Pai, Y. H.",
+        "Hsu, Y. K.",
+        "Lin, C. H.",
+        "Wang, C. M."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-21-S2-A221",
+      "year": "3月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 80,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "A model for fast predicting and optimizing the sensitivity of surface-relief guided mode resonance sensors",
+      "authors": [
+        "Lin, S. F.",
+        "Wang, C. M.",
+        "Tsai, Y. L.",
+        "Ding, T. J.",
+        "Yang, T. H.",
+        "Chen, W. Y.",
+        "Yeh, S. F.",
+        "Chang, J. Y."
+      ],
+      "journal": "Sensors and Actuators B: Chemical",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092540051200130X",
+      "year": "1月 2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 81,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High-Efficiency Broadband Meta-Hologram with Polarization-Controlled Dual Images",
+      "authors": [
+        "Wang, C. M.",
+        "Sun, G.",
+        "Zhou, L.",
+        "Tsai, D. P."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:SP6oXDckpogC",
+      "year": "2013",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 82,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High-efficiency broadband anomalous reflection by gradient meta-surfaces",
+      "authors": [
+        "Sun, S.",
+        "Yang, K. Y.",
+        "Wang, C. M.",
+        "Juan, T. K.",
+        "Chen, W. T.",
+        "Liao, C. Y.",
+        "He, Q.",
+        "Xiao, S.",
+        "Kung, W. T.",
+        "Guo, G. Y.",
+        "Zhou, L.",
+        "Tsai, D. P."
+      ],
+      "journal": "Nano Letters",
+      "url": "https://pubs.acs.org/doi/10.1021/nl3032668",
+      "year": "12月 2012",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 83,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Polarization dependent light extraction of a GaN light emitting diode using dark field angle-resolved photoluminescence spectrometry",
+      "authors": [
+        "Wang, C. M.",
+        "Tu, S. H.",
+        "Juan, T. K.",
+        "Lin, S. F.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-20-16-17952",
+      "year": "7月 2012",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 84,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Sensitive metal layer assisted guided mode resonance biosensor with a spectrum inversed response and strong asymmetric resonance field distribution",
+      "authors": [
+        "Lin, S. F.",
+        "Wang, C. M.",
+        "Ding, T. J.",
+        "Tsai, Y. L.",
+        "Yang, T. H.",
+        "Chen, W. Y.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-20-13-14584",
+      "year": "6月 2012",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 85,
+    "exclusion_reason": {
+      "code": "professor_absent",
+      "detail": "no Chih-Ming Wang / Wang, Chih-Ming / Wang, C. M. author found"
+    },
+    "publication": {
+      "title": "Transmissive color filtering using plasmonic multilayer structure",
+      "authors": [
+        "Yu, C. J."
+      ],
+      "journal": "Optical Engineering",
+      "url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-51/issue-4/044001/Transmissive-color-filtering-using-plasmonic-multilayer-structure/10.1117/1.OE.51.4.044001.short",
+      "year": "4月 2012",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 86,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High concentration and homogenized Fresnel lens without secondary optics element",
+      "authors": [
+        "Pan, J. W.",
+        "Huang, J. Y.",
+        "Wang, C. M.",
+        "Hong, H. F.",
+        "Liang, Y. P."
+      ],
+      "journal": "Optics Communications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0030401811006651",
+      "year": "9月 2011",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 87,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Exploiting plasmonics in active photonic devices",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "SPIE Newsroom",
+      "url": "https://scholar.google.com/scholar?cluster=16095164692682635876&hl=en&oi=scholarr",
+      "year": "8月 2011",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 88,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Color filtering using plasmonic multilayer structure",
+      "authors": [
+        "Yu, C. J.",
+        "Wang, C. M."
+      ],
+      "journal": "The 4th IEEE International NanoElectronics Conference",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5991694/",
+      "year": "6月 2011",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 89,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Angle-independent plasmonic infrared band-stop reflective filter based on the Ag / Si O 2 / Ag T-shaped array",
+      "authors": [
+        "Cheng, C. W.",
+        "Abbas, M. N.",
+        "Chang, Z. C.",
+        "Shih, M. H.",
+        "Wang, C. M.",
+        "Wu, M. C.",
+        "Chang, Y. C."
+      ],
+      "journal": "Optics Letters",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ol-36-8-1440",
+      "year": "4月 2011",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 90,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Three‐Terminal Amorphous Silicon Solar Cells",
+      "authors": [
+        "Tai, C. H.",
+        "Lin, C. H.",
+        "Wang, C. M.",
+        "Lin, C. C."
+      ],
+      "journal": "International Journal of Photoenergy",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2011/813093",
+      "year": "2011",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 91,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Enhancing the resonance quality factor in membrane-type resonant grating waveguides",
+      "authors": [
+        "Tsai, Y. L.",
+        "Chang, J. Y.",
+        "Wu, M. L.",
+        "Tu, Z. R.",
+        "Lee, C. C.",
+        "Wang, C. M.",
+        "Hsu, C. L."
+      ],
+      "journal": "Optics Letters",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ol-35-24-4199",
+      "year": "12月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 92,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical properties of light emitting diodes with a cascading plasmonic grating",
+      "authors": [
+        "Wang, C. M.",
+        "Tsai, Y. L.",
+        "Tu, S. H.",
+        "Lee, C. C.",
+        "Kuo, C. H.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-18-25-25608",
+      "year": "12月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 93,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Light-Emitting Diodes Light-Emitting Diodes 94, 2006",
+      "authors": [
+        "Tu, S. H.",
+        "Wu, S. Y.",
+        "Lee, Y. C.",
+        "Pan, J. W.",
+        "Kuo, C. H.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical review",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:q3oQSFYPqjQC",
+      "year": "8月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 94,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "IEEE J. Disp. Technol. IEEE J. Disp. Technol. 3, 160, 2007",
+      "authors": [
+        "Tu, S. H.",
+        "Wu, S. Y.",
+        "Lee, Y. C.",
+        "Pan, J. W.",
+        "Kuo, C. H.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical review",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:geHnlv5EZngC",
+      "year": "8月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 95,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical analysis of haze ratio and antireflection in structured thin film solar cell",
+      "authors": [
+        "Chao, C. C.",
+        "Pan, Y. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "2010 International Conference on Applications of Electromagnetism and Student Innovation Competition Awards (AEM2C)",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5578788/",
+      "year": "8月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 96,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Characterization of the Localized Surface Plasmon Ploariton Mode in Ag/SiO2/Ag T-shaped Array",
+      "authors": [
+        "Cheng, C. W.",
+        "Chang, Z. C.",
+        "Abbas, M. N.",
+        "Shih, M. H.",
+        "Wang, C. M.",
+        "Wu, M. C.",
+        "Chang, Y. C."
+      ],
+      "journal": "Integrated Photonics Research, Silicon and Nanophotonics and Photonics in Switching",
+      "url": "https://opg.optica.org/abstract.cfm?uri=IPRSN-2010-ITuB4",
+      "year": "7月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 97,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Functional imprinting structures on GaN-based light-emitting diodes for light pattern modulation and light extraction efficiency enhancement",
+      "authors": [
+        "Tu, S. H.",
+        "Wu, S. Y.",
+        "Lee, Y. C.",
+        "Pan, J. W.",
+        "Kuo, C. H.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical Review",
+      "url": "https://link.springer.com/article/10.1007/s10043-010-0070-z",
+      "year": "7月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 98,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Integration of non-Lambertian LED and reflective optical element as efficient street lamp",
+      "authors": [
+        "Pan, J. W.",
+        "Tu, S. H.",
+        "Sun, W. S.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-18-s2-a221",
+      "year": "6月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 99,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Single stage transmission type broadband solar concentrator",
+      "authors": [
+        "Wang, C. M.",
+        "Huang, H. I.",
+        "Pan, J. W.",
+        "Kuo, H. Z.",
+        "Hong, H. F.",
+        "Shin, H. Y.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-18-S2-A118",
+      "year": "6月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 100,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Spatial distribution of absorption in plasmonic thin film solar cells",
+      "authors": [
+        "Chao, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-18-11-11763",
+      "year": "5月 2010",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 101,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Impedance-matching surface plasmon absorber for FDTD simulations",
+      "authors": [
+        "Chao, C. C.",
+        "Tu, S. H.",
+        "Wang, C. M.",
+        "Huang, H. I.",
+        "Chen, C. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Plasmonics",
+      "url": "https://link.springer.com/article/10.1007/s11468-009-9114-2",
+      "year": "3月 2010",
+      "img_scr": [
+        "https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs11468-009-9114-2/MediaObjects/11468_2009_9114_Fig1_HTML.gif"
+      ],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 102,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Monolithic integration of elliptic-symmetry diffractive optical element on silicon-based 45° micro-reflector",
+      "authors": [
+        "Lan, H. C.",
+        "Hsiao, H. L.",
+        "Chang, C. C.",
+        "Hsu, C. H.",
+        "Wang, C. M.",
+        "Wu, M. L."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-17-23-20938",
+      "year": "11月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 103,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic enhancement of linear birefringence and linear dichroism in anisotropic optical metamaterials",
+      "authors": [
+        "Shcherbakov, M. R.",
+        "Vabishchevich, P. P.",
+        "Dobynde, M. I.",
+        "Dolgova, T. V.",
+        "Sigov, A. S.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "Fedyanin, A. A."
+      ],
+      "journal": "JETP Letters",
+      "url": "https://link.springer.com/article/10.1134/S0021364009180064",
+      "year": "11月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 104,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Light well: a tunable free-electron light source on a chip",
+      "authors": [
+        "Adamo, G.",
+        "MacDonald, K. F.",
+        "Fu, Y. H.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "García de Abajo, F. J.",
+        "Zheludev, N. I."
+      ],
+      "journal": "Physical Review Letters",
+      "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.113901",
+      "year": "9月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 105,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "T-shaped plasmonic array as a narrow-band thermal emitter or biosensor",
+      "authors": [
+        "Chang, Y. C.",
+        "Wang, C. M.",
+        "Abbas, M. N.",
+        "Shih, M. H.",
+        "Tsai, D. P."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-17-16-13526",
+      "year": "8月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 106,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Free-electron pumped tunable nanoscale light-source: the'light-well'",
+      "authors": [
+        "Adamo, G.",
+        "Fu, Y. H.",
+        "MacDonald, K. F.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "García de Abajo, F. J.",
+        "Zheludev, N. I."
+      ],
+      "journal": "",
+      "url": "https://eprints.soton.ac.uk/79015/",
+      "year": "6月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 107,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical System Design Optical System Design, 2000",
+      "authors": [
+        "Tu, S. H.",
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lee, Y. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical review",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:BrmTIyaxlBUC",
+      "year": "6月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 108,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Proc. 10th Int. Display Workshop, IDW'03, Fukuoka Proc. 10th Int. Display Workshop, IDW'03, Fukuoka 1585, 2003",
+      "authors": [
+        "Tu, S. H.",
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lee, Y. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical review",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:fQNAKQ3IYiAC",
+      "year": "6月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 109,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "US Patent 6844984 US Patent 6844984, 2005",
+      "authors": [
+        "Tu, S. H.",
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lee, Y. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical review",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:4fKUyHm3Qg0C",
+      "year": "6月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 110,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Tunable, nanoscale free-electron source of photons and plasmons",
+      "authors": [
+        "Adamo, G.",
+        "MacDonald, K. F.",
+        "Zheludev, N. I.",
+        "Fu, Y. H.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "García de Abajo, F. J."
+      ],
+      "journal": "Conference on Lasers and Electro-Optics/International Quantum Electronics Conference",
+      "url": "https://opg.optica.org/abstract.cfm?uri=IQEC-2009-JThA4",
+      "year": "5月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 111,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Plasmonic multilayer structure for ultrathin amorphous silicon film photovoltaic cell",
+      "authors": [
+        "Chao, C. C.",
+        "Wang, C. M.",
+        "Chang, Y. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical Review",
+      "url": "https://link.springer.com/article/10.1007/s10043-009-0064-x",
+      "year": "5月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 112,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "New collection systems for multi LED light engines",
+      "authors": [
+        "Tu, S. H.",
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lee, Y. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optical Review",
+      "url": "https://link.springer.com/article/10.1007/s10043-009-0058-8",
+      "year": "5月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 113,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Spatial filtering by using cascading plasmonic gratings",
+      "authors": [
+        "Wang, C. M.",
+        "Chang, Y. C.",
+        "Tsai, D. P."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-17-8-6218",
+      "year": "4月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 114,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "The\" light-well\": a tuneable nanoscale free-electron light source on-a-chip",
+      "authors": [
+        "Adamo, G.",
+        "MacDonald, K. F.",
+        "Zheludev, N. I.",
+        "Fu, Y. H.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "García de Abajo, F. J."
+      ],
+      "journal": "",
+      "url": "https://eprints.soton.ac.uk/76252/",
+      "year": "4月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 115,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Monolithic integration of diffractive optical element on silicon 45-degree micro-reflector",
+      "authors": [
+        "Lan, H. C.",
+        "Hsiao, H. L.",
+        "Chang, C. C.",
+        "Hsu, C. H.",
+        "Wang, C. M.",
+        "Wu, M. L."
+      ],
+      "journal": "Optical Fiber Communication Conference and National Fiber Optic Engineers Conference",
+      "url": "https://ieeexplore.ieee.org/abstract/document/5032537/",
+      "year": "3月 2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 116,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Nanoscale tuneable light source",
+      "authors": [
+        "Zheludev, N. I.",
+        "Adamo, G.",
+        "Fu, Y. H.",
+        "MacDonald, K. F.",
+        "Wang, C. M.",
+        "Tsai, D. P.",
+        "García de Abajo, F. J."
+      ],
+      "journal": "",
+      "url": "https://eprints.soton.ac.uk/70904/",
+      "year": "2009",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 117,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Nano",
+      "authors": [
+        "MacDonald, K. F.",
+        "Adamo, G.",
+        "Zheludev, N. I.",
+        "García de Abajo, F. J.",
+        "Fu, Y. H.",
+        "Wang, C. M.",
+        "Tsai, D. P."
+      ],
+      "journal": "Plasmonics and Metamaterials",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:lSLTfruPkqcC",
+      "year": "10月 2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 118,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Transmission enhancement through single slit embedded in plasmonic multilayer structure",
+      "authors": [
+        "Wang, C. M.",
+        "Chao, C. C.",
+        "Huang, H. I.",
+        "Chang, Y. C.",
+        "Tsai, D. P.",
+        "Chang, J. Y."
+      ],
+      "journal": "Japanese Journal of Applied Physics",
+      "url": "https://iopscience.iop.org/article/10.1143/JJAP.47.6713/meta",
+      "year": "8月 2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 119,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High efficiency pocket-size projector with a compact projection lens and a light emitting diode-based light source system",
+      "authors": [
+        "Pan, J. W.",
+        "Tu, S. H.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Applied Optics",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ao-47-19-3406",
+      "year": "7月 2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 120,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Angle-independent infrared filter assisted by localized surface plasmon polariton",
+      "authors": [
+        "Wang, C. M.",
+        "Chang, Y. C.",
+        "Tsai, M. W.",
+        "Ye, Y. H.",
+        "Chen, C. Y.",
+        "Jiang, Y. W.",
+        "Lee, S. C.",
+        "Tsai, D. P."
+      ],
+      "journal": "IEEE Photonics Technology Letters",
+      "url": "https://ieeexplore.ieee.org/abstract/document/4531629/",
+      "year": "7月 2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 121,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Transmission enhancement through a metallic slit assisted by low scattering loss corrugations",
+      "authors": [
+        "Wang, C. M.",
+        "Chao, C. C.",
+        "Huang, H. I.",
+        "Ung, B.",
+        "Sheng, Y.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Communications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0030401807014113",
+      "year": "5月 2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 123,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High Efficiency Pocket Size LED Projector",
+      "authors": [
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lan, H. C.",
+        "Sun, W. S.",
+        "Chang, J. Y."
+      ],
+      "journal": "OPTICS EXPRESS",
+      "url": "https://scholar.google.com/scholar?cluster=5948322281037223349&hl=en&oi=scholarr",
+      "year": "2008",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 124,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Reflection and emission properties of an infrared emitter",
+      "authors": [
+        "Wang, C. M.",
+        "Chang, Y. C.",
+        "Tsai, M. W.",
+        "Ye, Y. H.",
+        "Chen, C. Y.",
+        "Jiang, Y. W.",
+        "Chang, Y. T.",
+        "Lee, S. C.",
+        "Tsai, D. P."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=OE-15-22-14673",
+      "year": "10月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 125,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Homogenized LED-illumination using microlens arrays for a pocket-sized projector",
+      "authors": [
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Lan, H. C.",
+        "Sun, W. S.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-15-17-10483",
+      "year": "8月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 126,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Portable digital micromirror device projector using a prism",
+      "authors": [
+        "Pan, J. W.",
+        "Wang, C. M.",
+        "Sun, W. S.",
+        "Chang, J. Y."
+      ],
+      "journal": "Applied Optics",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ao-46-22-5097",
+      "year": "8月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 127,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Design of wide-angle low-loss waveguide bends using phase-compensated effective microprism",
+      "authors": [
+        "Wu, M. L.",
+        "Lan, H. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Japanese Journal of Applied Physics",
+      "url": "https://iopscience.iop.org/article/10.1143/JJAP.46.5426/meta",
+      "year": "8月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 128,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Design of Wide-Angle Low-Loss Waveguide Bends Using a Phase-Compensated Effective Microprism",
+      "authors": [
+        "Wu, M. L.",
+        "Lan, H. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Japanese Journal of Applied Physics",
+      "url": "https://scholar.google.com/scholar?cluster=8673219565472053536&hl=en&oi=scholarr",
+      "year": "8月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 129,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Transmission enhancement through a trench-surrounded nano metallic slit by bump reflectors",
+      "authors": [
+        "Wang, C. M.",
+        "Huang, H. I.",
+        "Chao, C. C.",
+        "Chang, J. Y.",
+        "Sheng, Y."
+      ],
+      "journal": "Optics Express",
+      "url": "https://opg.optica.org/abstract.cfm?uri=oe-15-6-3496",
+      "year": "3月 2007",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 131,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Enhanced transmission through nano-aperture on a tapered metallic substrate",
+      "authors": [
+        "Wang, C. M.",
+        "Ung, B.",
+        "Sheng, Y.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optics Communications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0030401806003324",
+      "year": "9月 2006",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 133,
+    "exclusion_reason": {
+      "code": "professor_absent",
+      "detail": "no Chih-Ming Wang / Wang, Chih-Ming / Wang, C. M. author found"
+    },
+    "publication": {
+      "title": "Hybrid grism-lens device for diffraction grating demultiplexers",
+      "authors": [
+        "Cheng, C. C."
+      ],
+      "journal": "Optical Engineering",
+      "url": "https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-45/issue-8/085002/Hybrid-grism-lens-device-for-diffraction-grating-demultiplexers/10.1117/1.2278470.short",
+      "year": "8月 2006",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 134,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Fabrication and tolerance reduction of a Si-based pickup module for optical storage",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "Optical Engineering",
+      "url": "https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-45/issue-7/074601/Fabrication-and-tolerance-reduction-of-a-Si-based-pickup-module/10.1117/1.2219105.short",
+      "year": "7月 2006",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 135,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Micro and Nano Optoelectronics in Optical Head Applications",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:ZeXyd9-uunAC",
+      "year": "6月 2006",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 137,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Anisotropic wet etching on birefringent calcite crystal",
+      "authors": [
+        "Wang, C. M.",
+        "Chang, Y. C.",
+        "Sung, C. D.",
+        "Tien, H. T.",
+        "Lee, C. C.",
+        "Chang, J. Y."
+      ],
+      "journal": "Applied Physics A",
+      "url": "https://link.springer.com/article/10.1007/s00339-004-2875-8",
+      "year": "9月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 138,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "An easy packaging hybrid optical element in grating based WDM application",
+      "authors": [
+        "Lan, H. C.",
+        "Cheng, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5877/587704/An-easy-packaging-hybrid-optical-element-in-grating-based-WDM/10.1117/12.616547.short",
+      "year": "8月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 139,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Monolithic low sideband guided-mode resonance filter based on two-layer structure",
+      "authors": [
+        "Hsu, C. L.",
+        "Chou, Y. H.",
+        "Wang, C. M.",
+        "Chang, J. Y.",
+        "Lee, C. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5931/593116/Monolithic-low-sideband-guided-mode-resonance-filter-based-on-two/10.1117/12.616749.short",
+      "year": "8月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 140,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Si-based UV transparent subwavelength optical elements",
+      "authors": [
+        "Lee, C. C.",
+        "Hsu, C. L.",
+        "Wang, C. M.",
+        "Chen, J. Y.",
+        "Chang, J. Y.",
+        "Chi, G. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5931/593115/Si-based-UV-transparent-subwavelength-optical-elements/10.1117/12.616319.short",
+      "year": "8月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 141,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Enhance transmission through a subwavelength slit on a bending metal substrate",
+      "authors": [
+        "Wang, C. M.",
+        "Hsu, C. L.",
+        "Chang, J. Y.",
+        "Lee, C. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5927/59270V/Enhance-transmission-through-a-subwavelength-slit-on-a-bending-metal/10.1117/12.616117.short",
+      "year": "8月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 142,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Novel GMR-based biochip",
+      "authors": [
+        "Lee, T. C.",
+        "Huang, H. C.",
+        "Wang, C. M.",
+        "Hsu, C. L.",
+        "Yang, T. H.",
+        "Chang, J. Y."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5702/0000/Novel-GMR-based-biochip/10.1117/12.591455.short",
+      "year": "3月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 143,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Realization of free-space optical pickup head with stacked Si-based phase elements",
+      "authors": [
+        "Chang, J. Y.",
+        "Wang, C. M.",
+        "Lee, C. C.",
+        "Shih, H. F.",
+        "Wu, M. L."
+      ],
+      "journal": "IEEE photonics technology letters",
+      "url": "https://ieeexplore.ieee.org/abstract/document/1372634/",
+      "year": "1月 2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 144,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Silicon-based subwavelength guided-mode resonance filter design",
+      "authors": [
+        "Chang, J. Y.",
+        "Hsu, C. L.",
+        "Chou, Y. H.",
+        "Wang, C. M."
+      ],
+      "journal": "Tech. Digest 11th Microoptics Conference",
+      "url": "https://scholar.google.com/scholar?cluster=13472285068352458308&hl=en&oi=scholarr",
+      "year": "2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 145,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "An easy packaging hybrid optical element in grating based WDM",
+      "authors": [
+        "Lan, H. C.",
+        "Cheng, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Optomechanics",
+      "url": "https://www.researchgate.net/profile/Chih-Ming-Wang-4/publication/241555715_An_easy_packaging_hybrid_optical_element_in_grating_based_WDM_application/links/0046353210ba07ccc1000000/An-easy-packaging-hybrid-optical-element-in-grating-based-WDM-application.pdf",
+      "year": "2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 146,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Wide-angle Bending Waveguide with Sub-wavelength Effective Microprism",
+      "authors": [
+        "Lan, H. C.",
+        "Wang, C. M.",
+        "Wu, M. L.",
+        "Chang, J. Y."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=11604305502306059412&hl=en&oi=scholarr",
+      "year": "2005",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 147,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Realization of optical pickup head by using stacked silicon-based micro-optical system",
+      "authors": [
+        "Wang, C. M.",
+        "Lan, H. C.",
+        "Chang, J. Y.",
+        "Lee, C. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5524/0000/Realization-of-optical-pickup-head-by-using-stacked-silicon-based/10.1117/12.559213.short",
+      "year": "10月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 148,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Design and fabrication of Si-based pickup module for optical storage",
+      "authors": [
+        "Lee, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y.",
+        "Chi, G. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5524/0000/Design-and-fabrication-of-Si-based-pickup-module-for-optical/10.1117/12.559258.short",
+      "year": "10月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 149,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Si-based guided-mode resonance filter on a micro-optical bench",
+      "authors": [
+        "Wang, C. M.",
+        "Chang, J. Y.",
+        "Hsu, C. L.",
+        "Lee, C. C.",
+        "Yang, J. C."
+      ],
+      "journal": "Electronics Letters",
+      "url": "https://search.proquest.com/openview/61b5873da0ead101f89242bef1c02b71/1?pq-origsite=gscholar&cbl=1936364",
+      "year": "10月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 150,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Nanostructured diffractive optical elements on SiNX membrane for UV-visible regime applications",
+      "authors": [
+        "Lee, C. C.",
+        "Wang, C. M.",
+        "Xu, C. L.",
+        "Chen, J. Y.",
+        "Chang, J. Y.",
+        "Liao, Y. M.",
+        "Chi, G. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5515/0000/Nanostructured-diffractive-optical-elements-on-SiNsubX-sub-membrane-for-UV/10.1117/12.559296.short",
+      "year": "10月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 151,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Silicon-based guided-mode resonance nanophotonic device",
+      "authors": [
+        "Wang, C. M.",
+        "Xu, C. L.",
+        "Chang, J. Y.",
+        "Lee, C. C."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5515/1/Silicon-based-guided-mode-resonance-nanophotonic-device/10.1117/12.559209.full",
+      "year": "10月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 152,
+    "exclusion_reason": {
+      "code": "professor_absent",
+      "detail": "no Chih-Ming Wang / Wang, Chih-Ming / Wang, C. M. author found"
+    },
+    "publication": {
+      "title": "Fast response in reduced Rh-doped barium titanate crystals at 100° C",
+      "authors": [
+        "Huang, C. Y."
+      ],
+      "journal": "Optical Engineering",
+      "url": "https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-43/issue-9/0000/Fast-response-in-reduced-Rh-doped-barium-titanate-crystals-at/10.1117/1.1775234.short",
+      "year": "9月 2004",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 153,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Micro-optical element on SiN membrane",
+      "authors": [
+        "Chang, J. Y.",
+        "Chang, Y. C.",
+        "Lee, C. C.",
+        "Wang, C. M."
+      ],
+      "journal": "SPIE Proceedings",
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5183/0000/Micro-optical-element-on-SiN-membrane/10.1117/12.504415.short",
+      "year": "11月 2003",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 154,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Micropolarizer fabricated from CaCO3 by anisotropic wet etching",
+      "authors": [
+        "Chang, Y. C.",
+        "Tien, H. T.",
+        "Sung, C. D.",
+        "Lee, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Applied Optics",
+      "url": "https://opg.optica.org/abstract.cfm?uri=AO-42-22-4423",
+      "year": "8月 2003",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 155,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "A Micropolarizer Fabricated from CaCO3 by Anisotropic Wet Etching",
+      "authors": [
+        "Chang, Y. C.",
+        "Tien, H. T.",
+        "Sung, C. D.",
+        "Lee, C. C.",
+        "Wang, C. M.",
+        "Chang, J. Y."
+      ],
+      "journal": "Applied Optics",
+      "url": "https://doi.org/10.1364/ao.42.004423",
+      "year": "8月 2003",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 156,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Silicon-based transmissive diffractive optical element",
+      "authors": [
+        "Lee, C. C.",
+        "Chang, Y. C.",
+        "Wang, C. M.",
+        "Chang, J. Y.",
+        "Chi, G. C."
+      ],
+      "journal": "Optics Letters",
+      "url": "https://opg.optica.org/abstract.cfm?uri=ol-28-14-1260",
+      "year": "7月 2003",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 157,
+    "exclusion_reason": {
+      "code": "author_name_unparseable",
+      "detail": "at least one author name cannot be compared as an English name"
+    },
+    "publication": {
+      "title": "The Photorefractive Properties of Two Series of BaTiO3 Crystals Annealed in Temperatures of 900 oC and 1000 oC",
+      "authors": [
+        "王智明"
+      ],
+      "journal": "Jpn. J. Appl. Phys. 42",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:-f6ydRqryjwC",
+      "year": "2003",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 158,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "The achievement of anti-reflection via graphene oxide",
+      "authors": [
+        "Chen, L. C.",
+        "Yu, C. T.",
+        "Tzeng, S. D.",
+        "Wang, C. M.",
+        "Lin, C. H."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=12380939870294574118&hl=en&oi=scholarr",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 159,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Grey-Level Nanostructured Guided Mode Resonator on Silicon-based Materials",
+      "authors": [
+        "Hsu, C. L.",
+        "Chang, J. Y.",
+        "Lee, C. C.",
+        "Wang, C. M."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=3631944478952800341&hl=en&oi=scholarr",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 160,
+    "exclusion_reason": {
+      "code": "authors_missing_or_unreadable",
+      "detail": "authors must be a non-empty array of non-empty strings"
+    },
+    "publication": {
+      "title": "Refractive and Meta-Optics Hybrid System",
+      "authors": [],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:738O_yMBCRsC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 161,
+    "exclusion_reason": {
+      "code": "authors_missing_or_unreadable",
+      "detail": "authors must be a non-empty array of non-empty strings"
+    },
+    "publication": {
+      "title": "Off-axis focusing by using nanoimprinted dielectric metasurface with free-form phase distribution",
+      "authors": [],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:WbkHhVStYXYC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 162,
+    "exclusion_reason": {
+      "code": "authors_missing_or_unreadable",
+      "detail": "authors must be a non-empty array of non-empty strings"
+    },
+    "publication": {
+      "title": "A general case of the overall phase modulation thought a dielectric PB-phase metasuraface",
+      "authors": [],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:Tiz5es2fbqcC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 163,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "A Stacked Systems of Optical Pickup Head with Silicon Based Microoptical Elements",
+      "authors": [
+        "Chang, J. Y.",
+        "Hsu, C. L.",
+        "Wang, C. M.",
+        "Lan, H. C.",
+        "Lee, C. C."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=8424738594374679043&hl=en&oi=scholarr",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 164,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Nat. Photonics 10, 60 (2016)",
+      "authors": [
+        "Wang, Q.",
+        "Rogers, E. T. F.",
+        "Gholipour, B.",
+        "Wang, C. M.",
+        "Yuan, G.",
+        "Teng, J.",
+        "Zheludev, N. I."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:NhqRSupF_l8C",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 165,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Permittivity of SiO2",
+      "authors": [
+        "Tsai, W. Y.",
+        "Wang, C. M.",
+        "Chen, C. F.",
+        "Wu, P. C.",
+        "Chen, Y. H.",
+        "Chen, T. Y.",
+        "Wu, P. R.",
+        "Chen, J. W.",
+        "Tsai, D. P."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=1272672466271601988&hl=en&oi=scholarr",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 166,
+    "exclusion_reason": {
+      "code": "professor_only",
+      "detail": "the only listed author is the professor; no specified lab member is present"
+    },
+    "publication": {
+      "title": "Solar & Alternative Energy Exploiting plasmonics in active photonic devices",
+      "authors": [
+        "Wang, C. M."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/scholar?cluster=8202141733186850244&hl=en&oi=scholarr",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 167,
+    "exclusion_reason": {
+      "code": "authors_missing_or_unreadable",
+      "detail": "authors must be a non-empty array of non-empty strings"
+    },
+    "publication": {
+      "title": "Aluminum plasmonic multi-color meta-hologram",
+      "authors": [],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:ldfaerwXgEUC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 168,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Electronic Imaging & Signal Processing Meta-holograms for colorful image storage",
+      "authors": [
+        "Tsai, D. P.",
+        "Chen, W. T.",
+        "Yang, K. Y.",
+        "Huang, Y. W.",
+        "Chiang, I. D.",
+        "Liao, C. Y.",
+        "Wang, C. M.",
+        "Sun, G.",
+        "Sun, S.",
+        "Zhou, L.",
+        "Liu, A. Q."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:2P1L_qKh6hAC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 169,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "High-efficiency Anomalous Light Reflections by Gradient Meta-surfaces",
+      "authors": [
+        "Sun, S.",
+        "Yang, K. Y.",
+        "Wang, C. M.",
+        "Juan, T. K.",
+        "Chen, W. T.",
+        "Liao, C. Y.",
+        "He, Q.",
+        "Xiao, S.",
+        "Kung, W. T.",
+        "Guo, G. Y.",
+        "Zhou, L.",
+        "Tsai, D. P."
+      ],
+      "journal": "Session 1P2 2 FocusSession. SC2: Metasurfaces for Wavefront Control",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:k_IJM867U9cC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  },
+  {
+    "original_index": 170,
+    "exclusion_reason": {
+      "code": "specified_lab_member_absent",
+      "detail": "the professor is present, but no specified lab member is present"
+    },
+    "publication": {
+      "title": "Optical Design & Engineering Highly efficient anomalous reflection by an optical metasurface",
+      "authors": [
+        "Sun, S.",
+        "Yang, K. Y.",
+        "Chen, W. T.",
+        "Liao, C. Y.",
+        "Guo, G. Y.",
+        "Tsai, D. P.",
+        "Wang, C. M.",
+        "Juan, T. K.",
+        "Kung, W. T.",
+        "He, Q.",
+        "Xiao, S.",
+        "Zhou, L."
+      ],
+      "journal": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:mVmsd5A6BfQC",
+      "year": "",
+      "img_scr": [],
+      "keywords": []
+    }
+  }
+]

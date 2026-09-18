@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "enabled": false,
+      "doi": "10.1234/example.001",
+      "image_url": "https://example.org/path/to/verified-image.png",
+      "kind": "graphical_abstract",
+      "source_name": "Official publisher or repository name",
+      "source_page": "https://example.org/publication-page",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "rights_note": "Example only. Enable only after a person verifies the image source and reuse terms."
+    }
+  ]
+}

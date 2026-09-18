@@ -211,6 +211,33 @@ async function loadFormerMembers() {
     .catch(error => console.error('Error loading members:', error));
 }
 
+const PUBLICATION_DEFAULT_COVER = 'assets/publications/default-cover.svg';
+
+function isSafePublicationLocalPath(path) {
+    return typeof path === 'string'
+        && /^assets\/publications\/[A-Za-z0-9][A-Za-z0-9._/-]*\.(svg|png|jpe?g|webp|gif)$/i.test(path)
+        && !path.includes('..');
+}
+
+function isSafePublicationHttpsUrl(url) {
+    if (typeof url !== 'string') return false;
+    try {
+        return new URL(url).protocol === 'https:';
+    } catch {
+        return false;
+    }
+}
+
+function getPublicationImageSrc(publication) {
+    const localPath = publication?.image?.status === 'verified' ? publication.image.path : '';
+    if (isSafePublicationLocalPath(localPath)) return localPath;
+
+    const legacyUrl = Array.isArray(publication?.img_scr) ? publication.img_scr[0] : '';
+    if (isSafePublicationHttpsUrl(legacyUrl)) return legacyUrl;
+
+    return PUBLICATION_DEFAULT_COVER;
+}
+
 async function loadpublications() {
     try {
         const response = await fetch('publications.json');
@@ -246,9 +273,10 @@ async function loadpublications() {
         // --- 以下是你原本負責印出論文的程式碼 (完全沒變) ---
         const keywordsHtml = pub.keywords.map(keyword => `<span class="tag">${keyword}</span>`).join('');
         const authorsHtml = pub.authors.join(', ');
+        const publicationImageSrc = getPublicationImageSrc(pub);
         container.innerHTML += `
             <div class="publication">
-                <img src="${pub.img_scr}" alt="Publication Image">
+                <img src="${publicationImageSrc}" alt="Publication Image" loading="lazy" onerror="this.onerror=null;this.src='assets/publications/default-cover.svg';">
                 <div class="publication-info">
                     <h2><a href="${pub.url}" target="_blank">${pub.title}</a></h2>
                     <p><strong>Authors:</strong> ${authorsHtml}</p>

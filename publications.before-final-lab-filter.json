@@ -567,6 +567,24 @@
     "keywords": []
   },
   {
+    "title": "Passive temperature control based on a phase change metasurface",
+    "authors": [
+      "Wu, S. R.",
+      "Lai, K. L.",
+      "Wang, C. M."
+    ],
+    "journal": "Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-018-26150-9",
+    "year": "5月 2018",
+    "img_scr": [
+      "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-018-26150-9/MediaObjects/41598_2018_26150_Fig1_HTML.jpg"
+    ],
+    "keywords": [
+      "Metamaterials",
+      "Nanophotonics and plasmonics"
+    ]
+  },
+  {
     "title": "Efficiency evaluation of hybrid concentrated photovoltaic under direct and diffuse illumination",
     "authors": [
       "Zeng, Q. C.",
@@ -663,6 +681,53 @@
     "journal": "Journal of lightwave technology",
     "url": "https://opg.optica.org/abstract.cfm?uri=jlt-24-4-1922",
     "year": "4月 2006",
+    "img_scr": [],
+    "keywords": []
+  },
+  {
+    "title": "The Photorefractive Properties of Two Series of BaTiO3 Crystals Annealed in Temperatures of 900 oC and 1000 oC",
+    "authors": [
+      "王智明"
+    ],
+    "journal": "Jpn. J. Appl. Phys. 42",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:-f6ydRqryjwC",
+    "year": "2003",
+    "img_scr": [],
+    "keywords": []
+  },
+  {
+    "title": "Refractive and Meta-Optics Hybrid System",
+    "authors": [],
+    "journal": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:738O_yMBCRsC",
+    "year": "",
+    "img_scr": [],
+    "keywords": []
+  },
+  {
+    "title": "Off-axis focusing by using nanoimprinted dielectric metasurface with free-form phase distribution",
+    "authors": [],
+    "journal": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:WbkHhVStYXYC",
+    "year": "",
+    "img_scr": [],
+    "keywords": []
+  },
+  {
+    "title": "A general case of the overall phase modulation thought a dielectric PB-phase metasuraface",
+    "authors": [],
+    "journal": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:Tiz5es2fbqcC",
+    "year": "",
+    "img_scr": [],
+    "keywords": []
+  },
+  {
+    "title": "Aluminum plasmonic multi-color meta-hologram",
+    "authors": [],
+    "journal": "",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-TW&user=IADxGEYAAAAJ&cstart=100&pagesize=100&citation_for_view=IADxGEYAAAAJ:ldfaerwXgEUC",
+    "year": "",
     "img_scr": [],
     "keywords": []
   }
